@@ -8,7 +8,7 @@ import { AutenticaProvider } from './../../providers/autentica/autentica';
   selector: 'page-entrar',
   templateUrl: 'entrar.html',
 })
-export class EsqueciSenhaPage {
+export class EntrarPage {
 
   form:FormGroup;
 
